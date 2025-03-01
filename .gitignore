@@ -1,0 +1,21 @@
+# PHP dependencies
+/vendor/
+
+# Environment files
+.env
+
+# Node modules (if applicable)
+node_modules/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-workspace
+
